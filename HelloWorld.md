@@ -1,7 +1,7 @@
 ---
-title: "HelloWorld.md"
-author: "Ahmed Tealeb"
-date: "2016-01-12"
-output: HTML
+Title: "HelloWorld.md"
+Author: "Ahmed Tealeb"
+Date: "2016-01-12"
+Output: HTML
 ---
 ## This is a markdown file
